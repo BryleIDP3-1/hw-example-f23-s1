@@ -11,6 +11,6 @@ This repo is practicing the first homework assignment
 
 :star:
 
-[MyFavWebsite] (https://www.amazon.ca)
+[My Fav Website](https://www.amazon.ca)
 
 ![Fender Telecaster](images/tele.jpg)
